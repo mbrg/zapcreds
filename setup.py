@@ -14,11 +14,11 @@ setup(
     description="Recon tool to harvest credentials from Zapier",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zenitysec/zapcreds",
+    url="https://github.com/mbrg/zapcreds",
     keywords="Zapier Recon Reconnaissance AppSec Zenity Security LowCode NoCode",
     project_urls={
-        "Bug Tracker": "https://github.com/zenitysec/zapcreds/issues",
-        "Source": "https://github.com/zenitysec/zapcreds",
+        "Bug Tracker": "https://github.com/mbrg/zapcreds/issues",
+        "Source": "https://github.com/mbrg/zapcreds",
         "Zenity": "https://zenity.io",
     },
     classifiers=[

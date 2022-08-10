@@ -21,7 +21,7 @@ Given a Zapier user, ZapCreds will scan every Zapier account the user has access
 ### Install
 
 ```bash
-git clone https://github.com/zenitysec/zapcreds
+git clone https://github.com/mbrg/zapcreds
 # use python>=3.6
 python -m pip install .
 ```

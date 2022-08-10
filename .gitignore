@@ -139,8 +139,5 @@ dmypy.json
 # coverage
 cov.xml
 
-# E2E testing
-.output
-
 # MacOS files
 .DS_Store
