@@ -6,6 +6,9 @@ from zapcreds.harvest import authenticate_session, get_credentials
 
 
 def parse_arguments(args=None):
+    """
+    Parse command line arguments
+    """
     parser = argparse.ArgumentParser()
     parser.add_argument("-u", "--email", type=str, required=True, help="Zapier user email")
     parser.add_argument("-p", "--password", type=str, required=True, help="Zapier user password")
