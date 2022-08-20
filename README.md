@@ -4,10 +4,6 @@ ZapCreds is a recon tool that harvests credentials from Zapier.
 
 Given a Zapier user, ZapCreds will scan every Zapier account the user has access to and will retrieve private connections owned by this user and shared connections the user has access to.
 
-----
-
-This tool was released as part of DEFCON30. For more details, see [Low Code High Risk: Enterprise Domination via Low Code Abuse](https://github.com/mbrg/defcon30/blob/main/Low_Code_High_Risk/readme.md).
-
 Disclaimer: these materials are presented from an attacker’s perspective with the goal of raising awareness to the risks of underestimating the security impact of No Code/Low Code. No Code/Low Code is awesome.
 
 ## Output example
